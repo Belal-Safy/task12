@@ -1,0 +1,30 @@
+.btn-success {
+    background-color: hsl(154, 59%, 51%);
+}
+
+body {
+    background-color: hsl(0, 100%, 74%);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-top: 12%;
+}
+
+.left {
+    height: fit-content;
+}
+
+.left h1 {
+    font-weight: bold;
+}
+
+.alert {
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 10px;
+}
+
+form {
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
